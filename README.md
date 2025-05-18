@@ -38,15 +38,6 @@ I'm Prem Sagar, A strategic tech enthusiast passionate about AI, data science, f
 
 ---
 
-### 🚀 What Drives Me
-
-- 🧠 Turning complex challenges into elegant, efficient tech solutions  
-- 💹 Applying strategic thinking in AI, finance, and data to create real-world impact  
-- ⚙️ Exploring **Full Stack Development**, **Machine Learning**, **Quantitative Finance**, and **Generative AI**  
-- 🔭 Building tools and systems that blend **creativity, intelligence, and data**
-
----
-
 ### 🎯 Roles & Contributions
 
 
