@@ -1,11 +1,7 @@
 ### 👋 Hey there, I'm Prem!
 
 # A strategic tech enthusiast passionate about AI, data science, finance, and building solutions that make an impact.
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220px" />
-</p>
 
----
 
 ### 🌟 Who Am I?
 
@@ -13,18 +9,12 @@
 💻 Skilled in **Python** (5⭐ HackerRank), **C**, **C++**, **Java**, and actively exploring **Web Development**, **Quantitative Finance**, and **FinTech**  
 🚀 Passionate about **AI/ML**, **Financial strategy**, **data-driven innovation**, and **tech-driven management**  
 
----
-
-### 🌟 What Drives Me?
 
 🧠 I thrive on solving complex problems through clean code, structured logic, and data-centric thinking  
 🔥 I love merging creativity with technology to craft smart, impactful solutions  
 📈 A **strategic thinker** who sees the bigger picture — from vision to execution  
 ✨ Always learning — whether it’s new frameworks, paradigms, or the latest in AI, finance, and system design  
 
----
-
-### 🌟 What Am I Doing?
 
 📚 Currently deep-diving into **Full-Stack Development**, **Machine Learning**, **Finance**, and **Data Science**  
 🤖 Experimenting with **Generative AI** to build intelligent, adaptive systems  
