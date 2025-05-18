@@ -1,6 +1,6 @@
-### 👋 Hey there, I'm Prem!
+# 👋 Hey there, I'm Prem!
 
-# A strategic tech enthusiast passionate about AI, data science, finance, and building solutions that make an impact.
+### A strategic tech enthusiast passionate about AI, data science, finance, and building solutions that make an impact.
 
 
 ### 🌟 Who Am I?
