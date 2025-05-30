@@ -17,6 +17,7 @@ I'm Prem Sagar, a strategic tech enthusiast passionate about AI, Data Science, F
 📚 Currently deepening my knowledge in **Full-Stack Development**, **Machine Learning**, **Finance**, and **Data Science**  
 🤖 Experimenting with **Generative AI** to create intelligent, adaptive systems  
 💡 Always building, collaborating, and expanding my technical and strategic skill set  
+📄 Résumé available in this repository for more details.
 
 ---
 
