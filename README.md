@@ -1,25 +1,22 @@
 # About Me
 
-### 👋 Hey there
-I'm Prem Sagar, A strategic tech enthusiast passionate about AI, data science, finance, and building solutions that make an impact.
+### 👋 Hello!  
+I'm Prem Sagar, a strategic tech enthusiast passionate about AI, Data Science, Finance, and building impactful solutions.
 
+### 🌟 Who Am I?  
 
-### 🌟 Who Am I?
+🎓 B.Tech undergraduate at **IIIT Dharwad**, specializing in **Data Science and Artificial Intelligence**  
+💻 Skilled in **Python**, **C**, **C++**, **Java**, and actively exploring **Web Development**,**ML** , **Quantitative Finance**, and **FinTech**  
+🚀 Driven by interests in **AI/ML**, **financial strategy**, **data-driven innovation**, and **technology-driven management**  
 
-🎓 A BTech undergraduate at **IIIT Dharwad**, specializing in **Data Science and Artificial Intelligence**, with a **Minor in Cybersecurity**  
-💻 Skilled in **Python** (5⭐ HackerRank), **C**, **C++**, **Java**, and actively exploring **Web Development**, **Quantitative Finance**, and **FinTech**  
-🚀 Passionate about **AI/ML**, **Financial strategy**, **data-driven innovation**, and **tech-driven management**  
+🧠 I thrive on solving complex problems through clean code, structured logic, and data-centric thinking.  
+🔥 I enjoy blending creativity with technology to build smart, impactful solutions.  
+📈 A **strategic thinker** with a vision that spans from ideation to execution.  
+✨ Constantly learning new frameworks, paradigms, and the latest trends in AI, finance, and system design.  
 
-
-🧠 I thrive on solving complex problems through clean code, structured logic, and data-centric thinking  
-🔥 I love merging creativity with technology to craft smart, impactful solutions  
-📈 A **strategic thinker** who sees the bigger picture — from vision to execution  
-✨ Always learning — whether it’s new frameworks, paradigms, or the latest in AI, finance, and system design  
-
-
-📚 Currently deep-diving into **Full-Stack Development**, **Machine Learning**, **Finance**, and **Data Science**  
-🤖 Experimenting with **Generative AI** to build intelligent, adaptive systems  
-💡 Continuously building, collaborating, and leveling up my tech + strategic skillset  
+📚 Currently deepening my knowledge in **Full-Stack Development**, **Machine Learning**, **Finance**, and **Data Science**  
+🤖 Experimenting with **Generative AI** to create intelligent, adaptive systems  
+💡 Always building, collaborating, and expanding my technical and strategic skill set  
 
 ---
 
@@ -34,30 +31,32 @@ I'm Prem Sagar, A strategic tech enthusiast passionate about AI, data science, f
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn)  
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat&logo=openai)  
+![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-05122A?style=flat&logo=chartdotjs)  
 
 ---
 
-### 🎯 Roles & Contributions
-
+### 🎯 Roles & Contributions  
 
 - 🎨 **President**, Iridescence – Student Media & Creative Team  
-- 🧭 **Vice President**, DSAI Society – IIIT Dharwad
-- 🏀 **Inter-IIIT Basketball Representative**
+- 🧭 **Vice President**, DSAI Society – IIIT Dharwad  
+- 🎉 **Lead Organizer**, TechnoCultural Fest 2025  
+- 🏀 **Inter-IIIT Basketball Representative**  
 
 ---
 
-### 🌐 Let’s Connect
+### 🌐 Let’s Connect  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prem-sagar-t-k/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:premsagartk@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"></a>
-  <a href="https://www.instagram.com/premsagar.tk/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram"></a>
-</p>
+<p align="left">  
+  <a href="https://www.linkedin.com/in/prem-sagar-t-k/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>  
+  <a href="mailto:premsagartk@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"></a>  
+  <a href="https://www.instagram.com/premsagar.tk/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram"></a>  
+</p>  
 
 ---
 
-### 💬 Motto
+### 💬 Motto  
 
 > _"Lead with integrity, build with vision, and stay endlessly curious."_
-
