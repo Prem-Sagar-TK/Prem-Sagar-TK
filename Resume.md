@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a B.Tech student at IIIT Dharwad specializing in **Data Science and Artificial Intelligence**. I bring strong expertise in Python, C, C++, Java, and Tableau, with a focus on data analytics, machine learning, and full-stack development. Passionate about leveraging technology to solve real-world challenges, I combine technical skills with leadership and strategic thinking to deliver impactful solutions.
+I am a B.Tech student at IIIT Dharwad specializing in Data Science and Artificial Intelligence, with expertise in programming, data analytics, and machine learning. I have held key leadership roles, managing major events like Hack2Future and Sangeeth 2025, while also representing IIIT Dharwad in inter-college basketball. Committed to continuous learning and collaboration, I strive to deliver impactful, technology-driven solutions.
 
 I am currently exploring **Web Development**, **Machine Learning**, and **Quantitative Finance** to broaden my technical skillset and apply data-driven approaches across domains.
 
