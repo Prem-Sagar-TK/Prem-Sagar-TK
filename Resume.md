@@ -6,6 +6,8 @@
 
 I am a B.Tech student at IIIT Dharwad specializing in **Data Science and Artificial Intelligence**. I bring strong expertise in Python, C, C++, Java, and Tableau, with a focus on data analytics, machine learning, and full-stack development. Passionate about leveraging technology to solve real-world challenges, I combine technical skills with leadership and strategic thinking to deliver impactful solutions.
 
+I am currently exploring **Web Development**, **Machine Learning**, and **Quantitative Finance** to broaden my technical skillset and apply data-driven approaches across domains.
+
 ---
 
 ## Education
@@ -24,7 +26,7 @@ _May 2021 – May 2023_
 
 - **Languages:** C / C++, Python (HackerRank Certified), Java, HTML/CSS (Basics)  
 - **Tools & Frameworks:** MySQL, Git, Tableau, MATLAB (Exploring), Figma, Adobe Creative Suite  
-- **Areas:** Web Development, Data Visualization, Machine Learning
+- **Areas:** Web Development (Exploring), Machine Learning (Exploring), Quantitative Finance (Exploring), Data Visualization
 
 ---
 
@@ -50,6 +52,7 @@ _May 2021 – May 2023_
 - Vice President, **DSAI Society**, IIIT Dharwad  
 - Documentation Coordinator, **Career Guidance Cell (CGC)**, IIIT Dharwad  
 - Head of Sponsorship & Event Coordinator, **Cultural Committee**, IIIT Dharwad  
+- Lead, **TechnoCultural Fest 2025**, IIIT Dharwad  
 - Program & Video Committee Member, **HR Conclave (10 Years Celebration)**  
 - Lead Medical Aid, Sponsorship, Event Coordination & Logistics, **Hack2Future Hackathon**
 
