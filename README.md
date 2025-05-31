@@ -30,8 +30,7 @@ I'm Prem Sagar, a strategic tech enthusiast passionate about AI, Data Science, F
 ### 🎯 Roles & Contributions  
 
 - 🎨 **President**, Iridescence – Student Media & Creative Team  
-- 🧭 **Vice President**, DSAI Society – IIIT Dharwad  
-- 🎉 **Lead Organizer**, TechnoCultural Fest 2025  
+- 🧭 **Vice President**, DSAI Society – IIIT Dharwad 
 - 🏀 **Inter-IIIT Basketball Representative**  
 
 ---
