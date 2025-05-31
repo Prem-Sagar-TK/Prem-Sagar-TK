@@ -52,7 +52,6 @@ _May 2021 – May 2023_
 - Vice President, **DSAI Society**, IIIT Dharwad  
 - Documentation Coordinator, **Career Guidance Cell (CGC)**, IIIT Dharwad  
 - Head of Sponsorship & Event Coordinator, **Cultural Committee**, IIIT Dharwad  
-- Lead, **TechnoCultural Fest 2025**, IIIT Dharwad  
 - Program & Video Committee Member, **HR Conclave (10 Years Celebration)**  
 - Lead Medical Aid, Sponsorship, Event Coordination & Logistics, **Hack2Future Hackathon**
 
