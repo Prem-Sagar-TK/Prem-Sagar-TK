@@ -6,7 +6,7 @@ I'm Prem Sagar, a strategic tech enthusiast passionate about AI, Data Science, F
 ### 🌟 Who Am I?  
 
 🎓 B.Tech undergraduate at **IIIT Dharwad**, specializing in **Data Science and Artificial Intelligence**  
-💻 Skilled in **Python**, **C**, **C++**, **Java**, and actively exploring **Web Development**, **ML**, **Quantitative Finance**, and **FinTech**  
+💻 Skilled in **Python**, **C**, **C++**, **Java**, and actively exploring **Web Development**, **ML**, **Quantitative Finance** 
 🚀 Driven by interests in **AI/ML**, **financial strategy**, **data-driven innovation**, and **technology-driven management**  
 
 🧠 I thrive on solving complex problems through clean code, structured logic, and data-centric thinking.  
