@@ -47,6 +47,7 @@ I'm a **strategic tech enthusiast** passionate about **AI**, **Data Science**, *
 ## 🎯 Roles & Contributions
 
 -  **Cultural Secretary**, *IIIT Dharwad*
+-  **Public Relations and Social Media Head**, *IIIT Dharwad*
 - 🎨 **President**, *Iridescence* – Student Media & Creative Team  
 - 🧭 **Vice President**, *DSAI Society* – IIIT Dharwad  
 - 🏀 **Inter-IIIT Basketball Representative**
