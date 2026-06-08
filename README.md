@@ -48,15 +48,3 @@ I'm a **strategic tech enthusiast** passionate about building **impactful soluti
 - 🏀 **Inter-IIIT Basketball Representative**
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/prem-sagar-t-k/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="mailto:premsagartk@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail">
-  </a>
-</p>
-
