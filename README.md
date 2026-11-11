@@ -2,9 +2,9 @@
 
 **Software Engineer: full-stack & AI.** I build end-to-end products with React frontends, Node.js / FastAPI backends, SQL and NoSQL databases, and RAG pipelines, shipped with Docker.
 
-🎓 B.Tech in **Data Science & Artificial Intelligence** at **IIIT Dharwad** ('27), minor in **Entrepreneurship**
-💼 **Full-Stack Developer & Researcher** at Jnana Setu (startup): primary React engineer for 100+ users, 30% faster page loads, 20+ user interviews turned into shipped fixes
-🔭 Open to **Software Engineer** roles: full-stack, backend and AI
+- 🎓 B.Tech in **Data Science & Artificial Intelligence** at **IIIT Dharwad** ('27), minor in **Entrepreneurship**
+- 💼 **Full-Stack Developer & Researcher** at Jnana Setu (startup): primary React engineer for 100+ users, 30% faster page loads, 20+ user interviews turned into shipped fixes
+- 🔭 Open to **Software Engineer** roles: full-stack, backend and AI
 
 🌐 [Portfolio](https://portfolio-sage-five-5gpex5n2so.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/prem-sagar-t-k/) · 📫 premsagartk@gmail.com
 
@@ -26,6 +26,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
@@ -34,17 +35,20 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 
 **Backend & APIs**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 
 **Data & AI**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
@@ -52,6 +56,7 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)
 
 **DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-05122A?style=flat&logo=githubactions)
